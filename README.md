@@ -9,5 +9,6 @@ Links:
 - https://stackoverflow.com/questions/847179/multiple-glibc-libraries-on-a-single-host
 - https://www.jertype.com/upgrading-glibc/
 - https://unix.stackexchange.com/questions/176489/how-to-update-glibc-to-2-14-in-centos-6-5
+- https://linux.die.net/man/1/chrpath
 
 - http://gazebosim.org/tutorials/?tut=ros_urdf
