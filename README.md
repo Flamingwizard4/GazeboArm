@@ -12,7 +12,9 @@ Installation:
 9. catkin_make
 
 Running The Simulation:
-1. export ROS_PACKAGE_PATH=/home/username/catkin_ws/src:$ROS_PACKAGE_PATH
+1. Open another terminal window and run roscore
+2. export ROS_PACKAGE_PATH=/home/myusername/catkin_ws/src:$ROS_PACKAGE_PATH
+3. rosparam set use_sim_time true
 
 Links:
 - https://github.com/RoboStack/ros-noetic
