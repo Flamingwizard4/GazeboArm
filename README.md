@@ -8,8 +8,7 @@ Installation:
 4. Install gcc_linux-64 version 11.1.0 through conda-forge
 5. Follow installation instructions for ros-noetic
 6. Git clone arbotix_ros and pincher_arm repositories into catkin_ws/src
-(From catkin_ws directory:)
-7. rosdep install --from-paths src --ignore-src -r -y
+7. (From catkin_ws directory) rosdep install --from-paths src --ignore-src -r -y
 9. catkin_make
 
 Running The Simulation:
