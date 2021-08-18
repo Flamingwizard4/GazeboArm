@@ -15,7 +15,8 @@ Installation:
 Running The Simulation:
 1. Open another terminal window and run roscore
 2. export ROS_PACKAGE_PATH=/home/myusername/catkin_ws/src:$ROS_PACKAGE_PATH
-3. rosparam set use_sim_time true
+3. export PYTHONPATH=/home/myusername/anaconda/envs/ros/lib/python3.8/site-packages:$PYTHONPATH
+4. rosparam set use_sim_time true
 
 Links:
 - https://github.com/RoboStack/ros-noetic
