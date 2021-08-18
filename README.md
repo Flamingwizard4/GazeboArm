@@ -10,6 +10,7 @@ Installation:
 6. Git clone arbotix_ros and pincher_arm repositories into catkin_ws/src
 7. (From catkin_ws directory now) rosdep install --from-paths src --ignore-src -r -y
 9. catkin_make
+10. Add ROS_HOSTNAME and ROS_MASTER_URI env variables to .bashrc
 
 Running The Simulation:
 1. Open another terminal window and run roscore
